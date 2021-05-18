@@ -2,7 +2,7 @@
 
 This repository contain chess engine implementation using _Minimax_, _Alpha-Beta pruning_ and **Quiescence search** algorithm. Jupyter notebook inside a Docker Container is used for coding. All Jupyter Notebook are also available in the form of docker image.
 
-`Check out the [project paper](project_paper.pdf) to see detailed analysis.`
+Check out the [project paper](project_paper.pdf) to see detailed analysis.
 
 ## External Module Used
 
